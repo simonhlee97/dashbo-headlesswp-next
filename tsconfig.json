@@ -28,7 +28,8 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.js",
-    "scripts/seed.js"
+    "scripts/seed.js",
+    "app/wp-posts/page.jsx"  // do i need this?
   ],
   "exclude": ["node_modules"]
 }
